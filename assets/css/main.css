@@ -172,10 +172,10 @@
 /* BG */
 
 	#bg {
-		-moz-animation: bg 600s linear infinite;
-		-webkit-animation: bg 600s linear infinite;
-		-ms-animation: bg 600s linear infinite;
-		animation: bg 600s linear infinite;
+		-moz-animation: bg 30s linear infinite;
+		-webkit-animation: bg 30s linear infinite;
+		-ms-animation: bg 30s linear infinite;
+		animation: bg 30s linear infinite;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
@@ -260,7 +260,7 @@
 	}
 
 	#bg {
-		background-size: 2250px auto;
+		background-size: auto 100%;
 		width: 6750px;
 	}
 
@@ -764,7 +764,7 @@
 		}
 
 		#bg {
-			background-size: 1500px auto;
+			background-size: auto 100%;
 			width: 4500px;
 		} }
 
@@ -846,7 +846,7 @@
 		}
 
 		#bg {
-			background-size: 750px auto;
+			background-size: auto 100%;
 			width: 2250px;
 		} }
 
@@ -932,7 +932,7 @@
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: auto 100%;
 			width: 900px;
 		}
 
@@ -1030,7 +1030,7 @@
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			background-size: auto 100%;
 			width: 1237.5px;
 		}
 
